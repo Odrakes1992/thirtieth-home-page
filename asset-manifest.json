@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/thirtieth-home-page/static/css/main.ad39cfc4.css",
-    "main.js": "/thirtieth-home-page/static/js/main.dd76dea2.js",
+    "main.css": "/thirtieth-home-page/static/css/main.dfe50582.css",
+    "main.js": "/thirtieth-home-page/static/js/main.51f7d9a1.js",
     "static/js/453.c4256ef0.chunk.js": "/thirtieth-home-page/static/js/453.c4256ef0.chunk.js",
     "static/media/fashion-show-image.jpg": "/thirtieth-home-page/static/media/fashion-show-image.ffea3cfc7ea595f86eeb.jpg",
+    "static/media/yellow-dress-image.jpg": "/thirtieth-home-page/static/media/yellow-dress-image.568a9d7704a4210c32d2.jpg",
     "index.html": "/thirtieth-home-page/index.html",
-    "main.ad39cfc4.css.map": "/thirtieth-home-page/static/css/main.ad39cfc4.css.map",
-    "main.dd76dea2.js.map": "/thirtieth-home-page/static/js/main.dd76dea2.js.map",
+    "main.dfe50582.css.map": "/thirtieth-home-page/static/css/main.dfe50582.css.map",
+    "main.51f7d9a1.js.map": "/thirtieth-home-page/static/js/main.51f7d9a1.js.map",
     "453.c4256ef0.chunk.js.map": "/thirtieth-home-page/static/js/453.c4256ef0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad39cfc4.css",
-    "static/js/main.dd76dea2.js"
+    "static/css/main.dfe50582.css",
+    "static/js/main.51f7d9a1.js"
   ]
 }
